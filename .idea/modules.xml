@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/React.iml" filepath="$PROJECT_DIR$/.idea/modules/React.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/React-build.iml" filepath="$PROJECT_DIR$/.idea/modules/React-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TodoReactJS.iml" filepath="$PROJECT_DIR$/.idea/modules/TodoReactJS.iml" />
     </modules>
   </component>
 </project>
