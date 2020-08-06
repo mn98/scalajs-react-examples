@@ -36,7 +36,7 @@ object TodoApp {
     .build
 
   def main(args: Array[String]): Unit = {
-    TodoApp() renderIntoDOM dom.document.getElementById("root")
+    TodoApp() renderIntoDOM dom.document.getElementById("app")
   }
 
 }
