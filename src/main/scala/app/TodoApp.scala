@@ -1,6 +1,6 @@
 package app
 
-import app.components.Todos.Todos
+import app.components._
 import org.scalajs.dom
 import japgolly.scalajs.react.vdom.html_<^._
 import japgolly.scalajs.react.{BackendScope, ReactEventFromInput, ScalaComponent}
