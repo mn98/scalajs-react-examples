@@ -1,3 +1,3 @@
 # scalajs-react-examples
 
-Run `fastOptJS::webpack` in sbt (I do this in Intellij's sbt shell) and then open `todo-fastopt.html`.
+Run `sbt fastOptJS::webpack` and then open `todo-fastopt.html` in a browser.
